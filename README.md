@@ -20,3 +20,7 @@ python Clone.py
 
 - **Facebook**: [Masudur Rahman Sifat](https://www.facebook.com/sxr.404)
 - **WhatsApp**: [Mr.SxR](https://wa.me/+8801858094178)
+
+# :star2: Overview
+
+<img src="./MrSxR.jpg" width="180" alt="">
