@@ -23,4 +23,4 @@ python Clone.py
 
 # :star2: Overview
 
-<img src="MrSxR.jpg" width="180" alt="">
+<img src="./MrSxR.jpg" width="180" alt="">
