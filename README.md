@@ -16,3 +16,6 @@ cd Mr_SxR
 git pull
 python Clone.py
 ```
+## :telephone_receiver: Contact Information
+
+- **Facebook**: [Masudur Rahman Sifat](https://www.facebook.com/sxr.404)
