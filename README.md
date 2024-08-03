@@ -23,4 +23,4 @@ python Clone.py
 
 # Overview
 
-<img src="./Mr_SxR.jpg" width="330" alt="">
+<img src="./Mr_SxR.jpg" width="340" alt="">
